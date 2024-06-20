@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="refresh">Refresh</string>
+    <string name="msg_loading">Loading…</string>
+    <string name="unknown">Unknown</string>
+    <string name="cd_article_image">Article\'s image on each row</string>
+    <string name="cd_article_image_large">Article\'s large image</string>
+    <string name="cd_share_news">Share news by clicking share icon</string>
+    <string name="cd_back_to_list">Back to list of news</string>
+    <string name="share_news">Share news %s</string>
+    <string name="cd_search">Navigate to search screen</string>
+    <string name="cd_search_input">Input query text for search articles</string>
+    <string name="popular">Popular</string>
+    <string name="top_headlines">Top Headlines</string>
+</resources>
